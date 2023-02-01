@@ -6,3 +6,5 @@ This is scheduling a problem in a two-machine flow shop workshop. The main goal 
 
 ## Overview
 
+![App Screenshot](./pres.gif)
+
